@@ -30,10 +30,10 @@ The dataset includes:
 
 ## Data Source
 
-The data used in this project comes from **ISTAT (Italian National Institute of Statistics)** and is publicly available as **open data**.
-Monthly and annual CPI and NIC indicators
-Official inflation measures used for institutional and economic analysis
-The raw datasets were downloaded from the ISTAT portal and then cleaned, transformed, and reshaped for analytical purposes.
+The data used in this project comes from **ISTAT (Italian National Institute of Statistics)** and is publicly available as **open data**.  
+Monthly and annual CPI and NIC indicators  
+Official inflation measures used for institutional and economic analysis  
+The raw datasets were downloaded from the ISTAT portal and then cleaned, transformed, and reshaped for analytical purposes.  
 
 ---
 
@@ -76,8 +76,8 @@ All KPIs are consistently defined and reused across the dashboard pages.
 ---
 
 ## Project Structure
-  - powerbi/    # Power BI dashboard (.pbix)
-  - images/     # Dashboard screenshots
+  - powerbi/    Power BI dashboard (.pbix)
+  - images/     Dashboard screenshots
   - README.md
 
 ---
@@ -98,9 +98,9 @@ All KPIs are consistently defined and reused across the dashboard pages.
 ![Category Breakdown](images/Dashboard_CategoryBreakdown.png)
 ![Categories Comparison](images/Dashboard_CategoriesComparison.png)
 
-**Overview** – headline inflation KPIs and long-term trends
-**Category Breakdown** – detailed analysis by consumption category
-**Categories Comparison** – inflation dynamics across categories
+**Overview** – headline inflation KPIs and long-term trends  
+**Category Breakdown** – detailed analysis by consumption category  
+**Categories Comparison** – inflation dynamics across categories  
 
 ---
 
